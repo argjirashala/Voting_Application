@@ -26,7 +26,6 @@ Web-programming - PHP home assignment
 [X] Admin feature: when creating the poll, the admin can determine (using radio or checkbox input) whether selecting multiple options is allowed (1 pt)
 [X] Admin feature: the admin user can delete an existing poll (1 pt)
 [X] Voting page: the voting page shows whether selecting multiple options is allowed and if it is, then multiple options can actually be selected and the votes are saved correctly (2 pts)
-[ ] **Late submission: -0.5 pts / started day!**
 
 ## Extra tasks (extra 5 pts)
 
