@@ -1,0 +1,56 @@
+{
+    "63ac937d247e9": {
+        "username": "Argjira",
+        "password": "$2y$10$5JjjZM8igB\/oVjMNb9JO7OZWq1O76HLPwq9IjrPvLxtHwyEBR5qEW",
+        "email": "argjirashala9@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "63ac937d247e9"
+    },
+    "63adb96fa5194": {
+        "username": "Apple",
+        "password": "$2y$10$gGzJxbDUGLIpUFtgSV1dR.\/iLDmwuVDqHLOT8s3vhswL9p2XVu6Qa",
+        "email": "apple@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "63adb96fa5194"
+    },
+    "63adc579dfbd2": {
+        "username": "Someone",
+        "password": "$2y$10$091t37\/Wq73KPA0FOjXsVesZUsziKyRNOfIARGqHQf5trPV5wuKkO",
+        "email": "someone@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "63adc579dfbd2"
+    },
+    "63ae04519be14": {
+        "username": "Shala",
+        "password": "$2y$10$OQ0nwhsLdK8ziM1A\/f522O\/q68jk8SmCyM\/nGq5URO8szVfmpPrLm",
+        "email": "shala@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "63ae04519be14"
+    },
+    "63b0636c9c856": {
+        "username": "Bob",
+        "password": "$2y$10$GbpAW4W1OS26UqAxBnaA5O5\/YCYSKtOSAaLwhOAAuxy1YUhhc6mOG",
+        "email": "bob@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "63b0636c9c856"
+    },
+    "63b06603ee309": {
+        "username": "admin",
+        "password": "$2y$10$94vxuIUgXDxnL0oRZlc9B.j9VwAZgm1W\/eDHjunL9LzeLOSZXEMgy",
+        "email": "admin@gmail.com",
+        "roles": [
+            "user"
+        ],
+        "id": "63b06603ee309"
+    }
+}

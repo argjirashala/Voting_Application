@@ -1,0 +1,53 @@
+{
+    "63b950543304b": {
+        "polltext": "Exam day",
+        "options": [
+            "Monday\r",
+            "Tuesday\r",
+            "Friday"
+        ],
+        "multiple_options": "yes",
+        "deadline": "2023-05-26",
+        "creationtime": "2023-01-07",
+        "user_id": "63b06603ee309",
+        "id": "63b950543304b"
+    },
+    "63b950773ff5a": {
+        "polltext": "Exam mode",
+        "options": [
+            "Online\r",
+            "Offline"
+        ],
+        "multiple_options": "no",
+        "deadline": "2023-06-11",
+        "creationtime": "2023-01-06",
+        "user_id": "63b06603ee309",
+        "id": "63b950773ff5a"
+    },
+    "63b952a8dd29a": {
+        "polltext": "Favorite movie",
+        "options": [
+            "Harry Potter\r",
+            "Lord Of The Rings\r",
+            "Mission Impossible\r",
+            "No Time To Die"
+        ],
+        "multiple_options": "yes",
+        "deadline": "2022-12-29",
+        "creationtime": "2022-12-22",
+        "user_id": "63b06603ee309",
+        "id": "63b952a8dd29a"
+    },
+    "63b953d0d854d": {
+        "polltext": "Did you vote on the last elections",
+        "options": [
+            "Yes\r",
+            "No"
+        ],
+        "multiple_options": "no",
+        "deadline": "2022-12-30",
+        "creationtime": "2022-12-21",
+        "user_id": "63b06603ee309",
+        "id": "63b953d0d854d"
+    }
+}

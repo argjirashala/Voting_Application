@@ -1,0 +1,75 @@
+{
+    "63b9549d0c7ba": {
+        "who voted": "Argjira",
+        "optionvotedone": "Yes\r\n",
+        "pollId": "63b953d0d854d",
+        "id": "63b9549d0c7ba"
+    },
+    "63b954c66fe4c": {
+        "who voted": "Apple",
+        "optionvotedmul": [
+            "Harry Potter\r\n"
+        ],
+        "pollId": "63b952a8dd29a",
+        "id": "63b954c66fe4c"
+    },
+    "63b954d69217c": {
+        "who voted": "Apple",
+        "optionvotedone": "No",
+        "pollId": "63b953d0d854d",
+        "id": "63b954d69217c"
+    },
+    "63b954f6410c3": {
+        "who voted": "Someone",
+        "optionvotedmul": [
+            "Lord Of The Rings\r\n",
+            "No Time To Die"
+        ],
+        "pollId": "63b952a8dd29a",
+        "id": "63b954f6410c3"
+    },
+    "63b95837f25b1": {
+        "who voted": "Someone",
+        "optionvotedone": "Yes\r\n",
+        "pollId": "63b953d0d854d",
+        "id": "63b95837f25b1"
+    },
+    "63b958a3bc5a1": {
+        "who voted": "Argjira",
+        "optionvotedmul": [
+            "Lord Of The Rings\r\n",
+            "Mission Impossible\r\n"
+        ],
+        "pollId": "63b952a8dd29a",
+        "id": "63b958a3bc5a1"
+    },
+    "63b969140303c": {
+        "who voted": "admin",
+        "optionvotedmul": [
+            "Monday\r\n"
+        ],
+        "pollId": "63b950543304b",
+        "id": "63b969140303c"
+    },
+    "63b9695b60af7": {
+        "who voted": "admin",
+        "optionvotedone": "Online\r\n",
+        "pollId": "63b950773ff5a",
+        "id": "63b9695b60af7"
+    },
+    "63b96bf90aa55": {
+        "who voted": "Argjira",
+        "optionvotedmul": [
+            "Monday\r\n",
+            "Tuesday\r\n"
+        ],
+        "pollId": "63b950543304b",
+        "id": "63b96bf90aa55"
+    },
+    "63b96bff9344d": {
+        "who voted": "Argjira",
+        "optionvotedone": "Offline",
+        "pollId": "63b950773ff5a",
+        "id": "63b96bff9344d"
+    }
+}

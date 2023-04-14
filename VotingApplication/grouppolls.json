@@ -1,0 +1,37 @@
+{
+    "63c1b61a7b94a": {
+        "polltext": "What you prefer?",
+        "options": [
+            "Windows\r",
+            "Linux\r",
+            "Mac"
+        ],
+        "multiple_options": "no",
+        "deadline": "2023-01-10",
+        "creationtime": "2023-01-01",
+        "group": [
+            "Argjira",
+            "Apple",
+            "admin"
+        ],
+        "user_id": "63b06603ee309",
+        "id": "63c1b61a7b94a"
+    },
+    "63c2945dce67e": {
+        "polltext": "Do you prefer cats and\/or dogs",
+        "options": [
+            "Cat\r",
+            "Dog"
+        ],
+        "multiple_options": "yes",
+        "deadline": "2023-05-16",
+        "creationtime": "2023-01-14",
+        "group": [
+            "Argjira",
+            "Apple",
+            "admin"
+        ],
+        "user_id": "63b06603ee309",
+        "id": "63c2945dce67e"
+    }
+}

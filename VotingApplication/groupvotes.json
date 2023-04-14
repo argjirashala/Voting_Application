@@ -1,0 +1,51 @@
+{
+    "63c1b06a55e99": {
+        "who voted": "Argjira",
+        "optionvotedone": "opt2",
+        "pollId": "63c1a8ab2d56a",
+        "id": "63c1b06a55e99"
+    },
+    "63c1b28bec0a9": {
+        "who voted": "admin",
+        "optionvotedone": "opt1\r\n",
+        "pollId": "63c1a8ab2d56a",
+        "id": "63c1b28bec0a9"
+    },
+    "63c1b6398a314": {
+        "who voted": "Argjira",
+        "optionvotedone": "Windows\r\n",
+        "pollId": "63c1b61a7b94a",
+        "id": "63c1b6398a314"
+    },
+    "63c1b6552dc07": {
+        "who voted": "Apple",
+        "optionvotedone": "Linux\r\n",
+        "pollId": "63c1b61a7b94a",
+        "id": "63c1b6552dc07"
+    },
+    "63c294d50f004": {
+        "who voted": "admin",
+        "optionvotedmul": [
+            "Cat\r\n"
+        ],
+        "pollId": "63c2945dce67e",
+        "id": "63c294d50f004"
+    },
+    "63c294e333cd3": {
+        "who voted": "Argjira",
+        "optionvotedmul": [
+            "Dog"
+        ],
+        "pollId": "63c2945dce67e",
+        "id": "63c294e333cd3"
+    },
+    "63c294fb1df3f": {
+        "who voted": "Apple",
+        "optionvotedmul": [
+            "Cat\r\n",
+            "Dog"
+        ],
+        "pollId": "63c2945dce67e",
+        "id": "63c294fb1df3f"
+    }
+}
