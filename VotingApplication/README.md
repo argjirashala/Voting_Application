@@ -1,4 +1,4 @@
-Web-programming - PHP home assignment                                                                                                                               Mark with X the completed tasks.
+Web-programming - PHP home assignment.                                                                                                                               Mark with X the completed tasks.
 
 ## Minimum requirements (must be completed, 8 pts)
 
