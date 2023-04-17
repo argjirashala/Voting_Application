@@ -7,8 +7,7 @@ Web-programming - PHP home assignment.                                          
 [x] Main page: the data about the polls can be seen - poll ID, time of creation, voting deadline (1 pt)
 [X] Main page: expired polls are displayed seperately, both sections are ordered by the date of creating in descending order (newest poll is at the top) (1 pt)         
 [X] Main page: clicking on a poll/button redirects to the voting page (1 pt)                                                                                           
-[X] Voting page: the data about the given poll are shown - the question text, the possible options, and the submit button saves the vote (2 pts)                       
-[X] Voting page: if the voting form is filled properly (an option has been chosen) the user is notified about the successful vote. An error is displayed if the form is sent without selecting an option. (0.5 pts)                                                                                                                            
+[X] Voting page: the data about the given poll are shown - the question text, the possible options, and the submit button saves the vote (2 pts)                     [X] Voting page: if the voting form is filled properly (an option has been chosen) the user is notified about the successful vote. An error is displayed if the form is sent without selecting an option. (0.5 pts)                                                                                                                            
 [X] Poll creation page: the question, the possible options (two or more), the voting deadline can be entered on the page and the poll (including the time of creation) can be saved (1.5 pts)                                                                                                                                                 
 
 ## Basic tasks (12 pts)
